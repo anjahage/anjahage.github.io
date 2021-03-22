@@ -1,0 +1,29 @@
+body {
+  font-family: Tahoma, 'sans serif';
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 30px;
+  color: #FFF;	
+  background-color: DarkCyan;
+}
+
+table {
+	width: 100%;
+}
+
+td {
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+
+td .code {
+  color: blue;
+}
