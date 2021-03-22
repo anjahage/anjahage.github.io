@@ -10,6 +10,26 @@ h1 {
     color: #FFF;
 }
 
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    font-weight: 300;
+    color: #FFF; 
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    font-weight: normal;
+    color: grey;   
+}
+
 a.cta {
     color:aquamarine;
+    font-size: 16px;
+}
+
+.footer {
+    text-align: right;
+    color: grey;
 }
